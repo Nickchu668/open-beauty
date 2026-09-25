@@ -1,0 +1,6 @@
+{
+  "name": "OPEN BEAUTY 美站",
+  "description": "告別黑店與硬銷．香港美業真實點評與預約平台。100%單次收費標籤、零推銷指數與實名單據驗證點評。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
